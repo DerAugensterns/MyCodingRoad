@@ -9,5 +9,6 @@ public class Cooperation2 {
         System.out.println("fuck ");
         System.out.println("fuck ");
         System.out.println("fuck ");
+        System.out.println("fuck ");
     }
 }
