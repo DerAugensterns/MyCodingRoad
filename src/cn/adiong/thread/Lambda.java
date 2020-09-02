@@ -1,4 +1,4 @@
-package cn.adiong.Thread;
+package cn.adiong.thread;
 
 /**
  * @Author: 阿威

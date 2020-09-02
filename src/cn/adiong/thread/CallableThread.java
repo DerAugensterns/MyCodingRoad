@@ -1,4 +1,4 @@
-package cn.adiong.Thread;
+package cn.adiong.thread;
 
 import java.util.concurrent.*;
 

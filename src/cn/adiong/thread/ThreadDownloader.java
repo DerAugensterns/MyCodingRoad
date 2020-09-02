@@ -1,4 +1,4 @@
-package cn.adiong.Thread;
+package cn.adiong.thread;
 
 import org.apache.commons.io.FileUtils;
 

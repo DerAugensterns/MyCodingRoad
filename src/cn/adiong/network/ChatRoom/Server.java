@@ -15,7 +15,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 public class Server {
 
     /**
-     * 链接容器管理
+     * 链接容器管理  并发容器CopyOnWrite
      */
     private static CopyOnWriteArrayList<Channel> channels = new CopyOnWriteArrayList<>();
 
