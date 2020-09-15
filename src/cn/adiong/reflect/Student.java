@@ -7,7 +7,7 @@ package cn.adiong.reflect;
  */
 @TypeAnnotation("Table_student")
 public class Student {
-    
+
     @FieldAnnotation(argName = "s_id", argType = "int", argSize = 10)
     private int id;
     @FieldAnnotation(argName = "s_name", argType = "varchar", argSize = 10)
@@ -39,4 +39,13 @@ public class Student {
         this.age = age;
     }
 
+    public Student() {
+
+    }
+
+    public Student(int id, String name, int age) {
+        this.id = id;
+        this.name = name;
+        this.age = age;
+    }
 }
